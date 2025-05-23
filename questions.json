@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "category": "behavioral",
+    "question": "Tell me about a time you faced a significant challenge at work. How did you handle it?"
+  },
+  {
+    "id": 2,
+    "category": "behavioral",
+    "question": "Describe a situation where you had to work under pressure."
+  },
+  {
+    "id": 3,
+    "category": "behavioral",
+    "question": "Give an example of when you showed leadership skills."
+  },
+  {
+    "id": 4,
+    "category": "behavioral",
+    "question": "Tell me about a time you made a mistake. How did you handle it?"
+  },
+  {
+    "id": 5,
+    "category": "behavioral",
+    "question": "Describe a situation where you had to work with a difficult team member."
+  },
+  {
+    "id": 6,
+    "category": "behavioral",
+    "question": "How do you prioritize tasks when you have multiple deadlines?"
+  },
+  {
+    "id": 7,
+    "category": "behavioral",
+    "question": "Tell me about a goal you set and how you achieved it."
+  },
+  {
+    "id": 8,
+    "category": "behavioral",
+    "question": "Describe a time when you had to adapt to a major change at work."
+  },
+  {
+    "id": 9,
+    "category": "behavioral",
+    "question": "Give an example of how you handled constructive criticism."
+  },
+  {
+    "id": 10,
+    "category": "behavioral",
+    "question": "Tell me about a time you went above and beyond your job responsibilities."
+  },
+  {
+    "id": 11,
+    "category": "technical",
+    "question": "Explain the difference between object-oriented and functional programming."
+  },
+  {
+    "id": 12,
+    "category": "technical",
+    "question": "What is a deadlock? How can it be prevented?"
+  },
+  {
+    "id": 13,
+    "category": "technical",
+    "question": "Describe how a hash table works."
+  },
+  {
+    "id": 14,
+    "category": "technical",
+    "question": "Write a function to reverse a linked list."
+  },
+  {
+    "id": 15,
+    "category": "technical",
+    "question": "Explain the concept of inheritance in OOP."
+  },
+  {
+    "id": 16,
+    "category": "technical",
+    "question": "What are the differences between SQL and NoSQL databases?"
+  },
+  {
+    "id": 17,
+    "category": "technical",
+    "question": "Describe the process of normalization in databases."
+  },
+  {
+    "id": 18,
+    "category": "technical",
+    "question": "Explain what a RESTful API is."
+  },
+  {
+    "id": 19,
+    "category": "technical",
+    "question": "How does garbage collection work in programming languages like Java?"
+  },
+  {
+    "id": 20,
+    "category": "technical",
+    "question": "What is the difference between a process and a thread?"
+  },
+  {
+    "id": 21,
+    "category": "hr",
+    "question": "What motivates you in your work?"
+  },
+  {
+    "id": 22,
+    "category": "hr",
+    "question": "Why do you want to work for this company?"
+  },
+  {
+    "id": 23,
+    "category": "hr",
+    "question": "Where do you see yourself in five years?"
+  },
+  {
+    "id": 24,
+    "category": "hr",
+    "question": "How do you handle stress and pressure?"
+  },
+  {
+    "id": 25,
+    "category": "hr",
+    "question": "What are your strengths and weaknesses?"
+  },
+  {
+    "id": 26,
+    "category": "hr",
+    "question": "Why are you leaving your current job?"
+  },
+  {
+    "id": 27,
+    "category": "hr",
+    "question": "How do you handle conflict in the workplace?"
+  },
+  {
+    "id": 28,
+    "category": "hr",
+    "question": "Describe a time when you worked as part of a team."
+  },
+  {
+    "id": 29,
+    "category": "hr",
+    "question": "What do you know about our company culture?"
+  },
+  {
+    "id": 30,
+    "category": "hr",
+    "question": "How do you balance work and personal life?"
+  }
+]
